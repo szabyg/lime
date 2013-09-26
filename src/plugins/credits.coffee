@@ -63,7 +63,9 @@ class window.CreditsPlugin extends window.LimePlugin
       Development by Szaby Grünwald, Cristian Bara and Sorin Petan.</p>
       <br/>
       <p>&copy; 2013 Salzburg Research, STI International and Seekda GmbH.<br/>
-      Available under Apache 2.0 license at http://szabyg.github.io/lime.</p>
+      Available under Apache 2.0 license at <a href="http://github.com/szabyg/lime" target="_blank">
+         http://github.com/szabyg/lime.</a>
+      </p>
       <p>For more information contact szaby.gruenwald@salzburgresearch.at</p>
       </div>
       """
